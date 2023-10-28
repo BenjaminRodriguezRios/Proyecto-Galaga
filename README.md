@@ -1,1 +1,1 @@
-# Proyecto-Galaga
+# ProyectoGalaga
